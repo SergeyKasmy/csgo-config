@@ -1,0 +1,187 @@
+"RadioPanel.txt"
+{
+	"Groups"
+	{
+		"common"
+		{
+			"hotkey"	"0"
+			"title"	"Radio"
+			"timeout"	"5"
+
+			"Commands"
+			{
+				"roger"
+				{
+					"hotkey"	"1"
+					"label"	"#SFUI_Radio_Roger"
+					"cmd"	"roger"
+				}
+				
+				"negative"
+				{
+					"hotkey"	"2"
+					"label"	"#SFUI_Radio_Negative"
+					"cmd"	"negative"
+				}
+				
+				
+  				"thanks"
+				{
+					"hotkey"	"3"
+					"label"	"#SFUI_Radio_Thanks"
+					"cmd"	"thanks"
+				}
+
+				"sorry"
+				{
+					"hotkey"	"4"
+					"label"	"#SFUI_Radio_Sorry"
+					"cmd"	"sorry"
+				}
+
+  				"needrop"
+				{
+					"hotkey"	"5"
+					"label"	"#SFUI_Radio_Need_Drop"
+					"cmd"	"needrop"
+				}
+
+				"holdpos"
+				{
+					"hotkey"	"6"
+					"label"	"#SFUI_Radio_Hold_Pos"
+					"cmd"	"holdpos"
+				}
+			}
+		}
+
+		"fun"
+		{
+			"hotkey"	"4"
+			"title"	"Fun"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"go"
+				{
+					"hotkey"	"1"
+					"label"	"#SFUI_Radio_Go"
+					"cmd"	"go"
+				}
+
+				"cheer"
+				{
+					"hotkey"	"2"
+					"label"	"#SFUI_Radio_Cheer"
+					"cmd"	"cheer"
+				}
+
+				"compliment"
+				{
+					"hotkey"	"3"
+					"label"	"#SFUI_Radio_Compliment"
+					"cmd"	"compliment"
+				}
+
+				"sectorclear"
+				{
+					"hotkey"	"4"
+					"label"	"#SFUI_Radio_Sector_Clear"
+					"cmd"	"sectorclear"
+				}
+				
+				"needbackup"
+				{
+					"hotkey"	"5"
+					"label"	"#SFUI_Radio_Need_Backup"
+					"cmd"	"needbackup"
+				}
+				
+				"enemyspot"
+				{
+					"hotkey"	"6"
+					"label"	"#SFUI_Radio_Spotted"
+					"cmd"	"enemyspot"
+				}
+
+				"sticktog"
+				{
+					"hotkey"	"7"
+					"label"	"#SFUI_Radio_Stick_Together"
+					"cmd"	"sticktog"
+				}
+				
+				"followme"
+				{
+					"hotkey"	"8"
+					"label"	"#SFUI_Radio_Follow"
+					"cmd"	"followme"
+				}
+
+				"inposition"
+				{
+					"hotkey"	"9"
+					"label"	"#SFUI_Radio_In_Position"
+					"cmd"	"inposition"
+				}			
+			}
+		}
+		
+		"fun"
+		{
+			"hotkey"	"2"
+			"title"	"Chat"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"hf"
+				{
+					"hotkey"	"1"
+					"label"	"hf"
+					"cmd"	"say hf"
+				}
+
+				"gh"
+				{
+					"hotkey"	"2"
+					"label"	"gh"
+					"cmd"	"say gh"
+				}
+
+				"gg"
+				{
+					"hotkey"	"3"
+					"label"	"gg"
+					"cmd"	"say gg"
+				}
+
+				"hfhf"
+				{
+					"hotkey"	"4"
+					"label"	"hfhf"
+					"cmd"	"say hfhf"
+				}
+
+				"hffff"
+				{
+					"hotkey"	"5"
+					"label"	"hffff"
+					"cmd"	"say hffff"
+				}
+			}
+		}
+		
+		"WIP"
+		{
+			"hotkey"	"3"
+			"title"	"WIP"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+			}
+		}
+	}
+}
